@@ -42,7 +42,7 @@ python3 -m http.server 8080
 
 ```javascript
 const CONFIG = {
-  telegram: 'whitewhale3301',   // ник в Telegram
+  telegram: 'telegramUser',   // ник в Telegram
   devEmail: 'your@email.com',   // резервный email (не используется в футере)
   formspreeId: 'YOUR_ID',       // ID формы с formspree.io — куда приходят заявки с сайта
   typingPhrases: [...],         // фразы в hero
