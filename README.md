@@ -74,27 +74,6 @@ npx netlify deploy --prod --dir=.
 
 Для GitHub Pages: Settings → Pages → Source: Deploy from a branch → main / root.
 
-## Структура
-
-```
-├── index.html
-├── README.md
-├── css/style.css
-├── js/main.js
-├── manifest.json
-├── sw.js
-├── bgvideo.mp4
-└── img/
-    ├── bio.jpg
-    ├── album.jpg
-    ├── track1.jpg
-    ├── track2.jpg
-    ├── img1.jpg
-    ├── img2.jpg
-    ├── img3.jpg
-    ├── img4.jpg
-    └── img5.jpg
-```
 
 ## Автор
 
