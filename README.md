@@ -52,7 +52,7 @@ const CONFIG = {
 Ссылки на автора в футере ("Димой (meemzeh)" и "заказать сайт") ведут напрямую в Telegram и прописаны в `index.html`:
 
 ```html
-<a href="https://t.me/whitewhale3301">Димой (meemzeh)</a>
+<a href="https://t.me/TelegramUser">Димой (meemzeh)</a>
 ```
 
 Чтобы сообщения с контактной формы приходили на почту:
